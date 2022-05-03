@@ -16,4 +16,4 @@ https://github.com/moon9588/apiquiz#:~:text=Screen%20Shot%202022%2D05%2D03%20at%
 # Deployment
 
 Github repo:https://github.com/moon9588/apiquiz.git
-Deployed website:
+Deployed website: https://moon9588.github.io/apiquiz/
