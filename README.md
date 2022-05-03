@@ -1,4 +1,6 @@
-# apiquiz
+# Api-Quiz
+# Description
+This weeks projects we will be making our own coding quiz game. This game will ask you questions related to web dev.
 
 # User Story
 AS A coding boot camp student
