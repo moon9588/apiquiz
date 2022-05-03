@@ -7,5 +7,5 @@ SO THAT I can gauge my progress compared to my peers
 
 # Deployment
 
-Github repo:
+Github repo:https://github.com/moon9588/apiquiz.git
 Deployed website:
